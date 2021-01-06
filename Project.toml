@@ -1,0 +1,6 @@
+authors = ["Abhijith Anilkumar" <abhijithabhayam@gmail.com>, 
+	"Chirag Jamadagni", <chirag.jamadagni@gmail.com>]
+
+name = "NetworkViz"
+uuid = "50d9ff3e-3dcc-42ce-895f-42d3e32335a6"
+version = "1.0.0"
